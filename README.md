@@ -1,22 +1,29 @@
 🚀 Excel Dashboard Project | Data Analysis | Live Interactive Visualization
 
 📍 Title: Consumer Compliant Analysis & Trends 📈 
-Excited to present my latest Excel-based data visualization project focused on analyzing consumer complaints across sectors. This interactive dashboard is built in Excel and highlights how data can be transformed into powerful visualization.
+
+   Excited to present my latest Excel-based data visualization project focused on analyzing consumer complaints across sectors. This interactive dashboard is built in Excel and highlights how data can be 
+   transformed into powerful visualization.
 
 📌 Project Highlights :
+
 ▪️Top 5 states with Highest Complaints
+
 ▪️Track Monthly Complaint Trends
+
 ▪️Most Complained-About Products
+
 ▪️Analyzed Complaint Submission Methods
+
 ▪️Analyzed Company Responses to Complaints
+
 ▪️Understand Issue Breakdown across Products
+
 ▪️Top Issues reported by Consumers
+
 ▪️Timeliness of Company Responses
 
-💡 This project enhanced my skills in:
-➡️ Advanced Excel functions and formulas
-➡️ Data visualization and dashboard creation
-➡️ Interactive features such as slicers, shape-based navigation, hyperlinks and macros
-➡️ Interpreting real-world consumer complaint data and and understanding sectoral impacts
+
+
 
 🔎 This project highlights how raw consumer complaint data can be transformed into valuable insights, making Excel a powerful tool for storytelling, even in areas like consumer behavior analysis and service improvement.
